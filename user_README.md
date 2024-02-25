@@ -1,6 +1,6 @@
 # Docker_Demo: Ikon
 The OEX package just uses a modest IRIS instance in Docker     
-It merges IPM package of ??????? with some demo data    
+It merges IPM package of Ikon with some demo data    
 It is built using the small [Mini-Docker-Template](https://github.com/rcemper/mini-docker)    
 ### Prerequisites
 Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [Docker desktop](https://www.docker.com/products/docker-desktop) installed.
