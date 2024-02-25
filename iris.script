@@ -11,8 +11,10 @@
     // this should be the place for individual application code.
 
     zn "USER"
-    zpm "install Ikon"
-    zpm "list"
+    // IPM package ikon is broken need a workaround
+    // zpm "install Ikon"
+
+    Do $system.OBJ.Load("/home/irisowner/dev/Ikon.xml","ck")
  
     halt
 
