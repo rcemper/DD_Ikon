@@ -27,5 +27,6 @@ To access IRIS System Management Portal
 http://localhost:42773/csp/sys/UtilHome.csp
 ```
 ### How to use it
-This presents OEX package [???????](https://openexchange.intersystems.com/package/?????) using the actual IPM module    
-All user documentation is found there in the [original repo](https://github.com/*****/???????/blob/master/docs/README.md)  
+This presents OEX package [Ikon](https://openexchange.intersystems.com/package/Ikon) using the actual IPM module      
+All user documentation is found there in the [original repo](https://github.com/AndreiLN/Ikon/blob/master/README.md)    
+See also the [Article on InterSystems Developer Community](https://community.intersystems.com/post/identicon-generator-cach%C3%A9)   
