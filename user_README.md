@@ -1,4 +1,4 @@
-# Docker_Demo: ??????????
+# Docker_Demo: Ikon
 The OEX package just uses a modest IRIS instance in Docker     
 It merges IPM package of ??????? with some demo data    
 It is built using the small [Mini-Docker-Template](https://github.com/rcemper/mini-docker)    
@@ -7,7 +7,7 @@ Make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installi
 ### Installation
 Clone/git pull the repo into any local directory
 ```
-$ git clone https://github.com/rcemper/?????????.git
+$ git clone https://github.com/rcemper/DD_Ikon.git
 ```
 To build and start the container run:
 ```
